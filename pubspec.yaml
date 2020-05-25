@@ -31,7 +31,13 @@ dependencies:
   # url launcher flutter package
   url_launcher: ^5.4.10
 
+  built_collection: ">=2.0.0 <5.0.0"
+  built_value: ^7.0.2
+
 dev_dependencies:
+  build_runner: ^1.0.0
+  built_value_generator: ^7.1.0
+
   flutter_test:
     sdk: flutter
 

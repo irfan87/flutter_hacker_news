@@ -79,3 +79,8 @@ doc/api/
 
 .vscode/*
 .history/
+.idea
+.buildlog
+.DS_Store
+.settings/
+*.iml/

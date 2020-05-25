@@ -54,6 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Widget _buildItems(Article article) {
     return Padding(
+      key: Key(article.text),
       padding: const EdgeInsets.all(16.0),
       child: ExpansionTile(
         title: Text(
