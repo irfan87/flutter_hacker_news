@@ -33,6 +33,7 @@ dependencies:
 
   built_collection: ">=2.0.0 <5.0.0"
   built_value: ^7.0.2
+  http: ^0.12.1
 
 dev_dependencies:
   build_runner: ^1.0.0
